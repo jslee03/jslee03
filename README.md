@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jess :)
-- 🌱 I’m currently a university student
-- 🖥️ I'm studying Computing and Software Systems
+- 🌱 I’m currently a 3rd year Computer Science student
 - 📫 You can reach me at jess.lee0514@gmail.com
 
 <!---
